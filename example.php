@@ -15,7 +15,7 @@ $data = array(
 // $data = array(
 // 	'type' => '2',
 // 	'latitude' => '12.106369',
-// 	'longitude'  => '73.012584',
+// 	'longitude'  => '72.012584',
 // 	'width' => "80%", // Optional 
 // 	'height' => "40%" // Optional
 // );
